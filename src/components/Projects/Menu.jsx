@@ -8,7 +8,7 @@ import project1 from "/src/assets/portfolioAkrati.jpg";
 const Menu = [
   {
     id: 4,
-    url: "https://github.com/Akratijain13/Portfolio",
+    url: "https://github.com/Akratijain13/new-portfolio",
     image: "/portfolioAkrati.jpg",
     title: "Portfolio | React Js",
     category: "Frontend",

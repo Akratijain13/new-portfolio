@@ -43,7 +43,7 @@ const Data = [
       id: 6,
       category: "Highschool",
       icon: "icon-badge",
-      year: "Percentage - 89%",
+      year: "Percentage - 82%",
       title: "Specialization ",
       desc: "Science",
     },
